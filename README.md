@@ -10,7 +10,7 @@
 
 | Nome | RM |
 |---|---|
-| Yasmin Nathalin Miranda dos Santos | RM561565 |
+| Yasmin Nathalin Miranda dos Santos | RM561365 |
 | Riquelme Nascimento | RM565468 |
 | Enzo Franchin de Souza | RM565677 |
 | Lucas da Silva Lima | RM562118 |
